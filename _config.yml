@@ -1,0 +1,14 @@
+layout_spectrum: 0.40239717345684767
+typography_spectrum: 0.08757893927395344
+color:
+  brandStrength: 0.0012510062661021948
+  lightness: 0.30849892157129943
+  saturation: 0.019839518703520298
+  rhythmicContrast: 0.7356411174405366
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: CMR Instruments
