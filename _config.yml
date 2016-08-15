@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.40239717345684767
 name: CMR Instruments
+navigation:
+  - name: CMR Calibration
+    url: http//thecalibrationservice.eu
+    type: external
 title: High Quality Test Instruments
 description: All your test equipment needs
